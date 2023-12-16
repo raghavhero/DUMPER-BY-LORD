@@ -1,3 +1,5 @@
  $ git clone https://github.com/raghavhero/DUMPER-BY-LORD
  $ ls
  $ cd DUMPER-BY-LORD
+ $ ls
+ $ python domain-dumper.py
